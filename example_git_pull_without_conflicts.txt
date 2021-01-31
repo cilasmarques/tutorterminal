@@ -1,13 +1,12 @@
 # <bold>-> Agora, vamos aprender como atualizar o repositório local.</bold>
 # 
-# <bold>-> Execute o comando: <bg #00005f>git pull</bg #00005f>.</bold>
+# <bold>-> Execute o comando: <bg #00005f>git pull</bg #00005f></bold>
+# >>> OBS: O comando git pull pode ser complementado com a branch do repositório que você deseja atualizar! (git pull <remote> <branch>).
+# >>> Por exemplo: git pull origin master
+
 run git pull$
 
-# >>> OBS: O comando git pull pode ser complementado com a branch do repositório que você deseja atualizar! (git pull <remote> <branch>).
-# >>> Por exemplo: <bg #00005f>git pull origin master</bg #00005f>
-
-enter
-# <bold><green>[Parabéns, clonagem feita com sucesso! =)]</green></bold>
+# <bold><green>[Pronto! Atualização feita com sucesso! =)]</green></bold>
 
 enter
 # <bold><c> ~ RESUMINHO ~ </c></bold>
